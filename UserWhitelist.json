@@ -1,0 +1,34 @@
+[
+    {
+        "user_id": 1241119756,
+        "status": "Admin"
+    },
+    {
+        "user_id": 6199179298,
+        "status": "Admin"
+    },
+    {
+        "user_id": 5241061519,
+        "status": "Reader"
+    },
+    {
+        "user_id": 6805822038,
+        "status": "Mod"
+    },
+    {
+        "user_id": 817247172,
+        "status": "Reader"
+    },
+    {
+        "user_id": 12846157,
+        "status": "Mod"
+    },
+    {
+        "user_id": 1041111652,
+        "status": "Reader"
+    },
+    {
+        "user_id": 1567866200,
+        "status": "Reader"
+    }
+]
